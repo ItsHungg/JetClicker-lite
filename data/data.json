@@ -1,0 +1,29 @@
+[
+    {
+        "category": "storage",
+        "fixed-position": [
+            0,
+            0
+        ],
+        "position-type": "manual"
+    },
+    {
+        "category": "settings",
+        "trigger-hotkey": "ctrl+q",
+        "is.failsafe": true
+    },
+    {
+        "category": "extensions",
+        "version": "1.0.0",
+        "extensions": {
+            "mouse-recorder": {
+                "version": "1.0",
+                "playback-speed": 1,
+                "is.record-clicks": true,
+                "is.record-movements": true,
+                "is.record-wheelrolls": true,
+                "is.insert-events": false
+            }
+        }
+    }
+]
