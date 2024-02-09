@@ -4,7 +4,7 @@
   <p>JetClicker Lite is a lighter version of JetClicker, a fast, reliable, and free auto-clicker application.</p>
   <hr>
   
-  ![Static Badge](https://img.shields.io/badge/1.0.0-blue?style=for-the-badge&label=Version)
+  ![Static Badge](https://img.shields.io/badge/1.0-blue?style=for-the-badge&label=Version)
   ![Static Badge](https://img.shields.io/badge/stable-darkgreen?style=for-the-badge&label=Status)
   [![Static Badge](https://img.shields.io/badge/MIT-green?style=for-the-badge&label=license)](https://github.com/ItsHungg/JetClicker-lite/blob/63da3bacce31a0ee5b74d82a892acf443988c2bc/LICENSE)
 
