@@ -30,8 +30,8 @@
       </tr>
       <tr align="center">
             <td>Size</td>
-            <td>>80MB</td>
-            <td><b>>50MB</b></td>
+            <td>>80 MB</td>
+            <td><b>>50 MB</b></td>
       </tr>
       <tr align="center">
             <td>CPS/click</td>
